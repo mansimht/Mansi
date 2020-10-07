@@ -1,14 +1,14 @@
 What is a model?
 
 A model is like a function that takes an input and gives the output.
-
 Let f(x) be the function with x as input and the output is ‘y’. In regression, y is found to be continuous whereas in classification, y is found to be categorical or discrete.
 
 What is discrete and continuous?
 
 Discrete: In email spam detection the output will be “whether the email is spam or not “.
 Continuous: Given the features, the predicted height of a person in the class is continuous. (As height can be anything between 140cm to 190 cm.)
-Related Terminology:
+
+
 1.Binary class classification: Classification with two class labels.
 2.Multi-class classification: Classification with more than two class labels.
 
